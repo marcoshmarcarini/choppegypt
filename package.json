@@ -1,0 +1,22 @@
+{
+  "name": "chopp_egypt",
+  "version": "1.0.0",
+  "description": "Site desenvolvido em Next JS no intuito de divulgar a marca de chope do Egypt. ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoshmarcarini/choppegypt.git"
+  },
+  "author": "Marcos Henrique Marcarini Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoshmarcarini/choppegypt/issues"
+  },
+  "homepage": "https://github.com/marcoshmarcarini/choppegypt#readme"
+}
