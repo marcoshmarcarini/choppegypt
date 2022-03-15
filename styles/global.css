@@ -1,2 +1,9 @@
+/* Importação do Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Zerando as margens e espaçamantos do DOM */
 *{margin:0; padding:0;}
+
 
